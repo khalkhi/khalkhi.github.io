@@ -1,0 +1,6 @@
+
+
+
+Though this is an html only project inline css was used in this webpage to change the text color 
+and remove underlindes from links as these were instrumental to letting me create the webpage that best defines me.
+K.White.
